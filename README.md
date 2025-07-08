@@ -399,7 +399,7 @@ MAX_BUILD_SIZE = {
 
 ## License
 
-This project is licensed under the MIT License. See LICENSE file for details.
+This project is licensed under a Proprietary License. See LICENSE file for details.
 
 ## Support
 
